@@ -10,7 +10,7 @@ import os
 # Bildeinstellungen
 RESOLUTION_X = 1920
 RESOLUTION_Y = 1080
-FILENAME = "black_hole_with_stars_fast.png"
+FILENAME = "black_hole.png"
 
 # Simulationseinstellungen
 TIMESTEP = 0.1
